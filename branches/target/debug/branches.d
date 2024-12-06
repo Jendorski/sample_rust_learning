@@ -1,0 +1,1 @@
+/Users/jendorski/Documents/Rust\ Projects/sample_rust_learning/branches/target/debug/branches: /Users/jendorski/Documents/Rust\ Projects/sample_rust_learning/branches/src/main.rs /Users/jendorski/Documents/Rust\ Projects/sample_rust_learning/branches/src/variable_scope.rs
